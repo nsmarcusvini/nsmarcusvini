@@ -2,7 +2,7 @@
 
 - I am a DevOps Engineer working at the largest education company in South America, focused on automation, enabling developers, and improving continuous integration.
 - I'm currently studying a postgraduate program in Full Stack Development to broaden my technical skills in software engineering. 🏹
-
+## 
 <div style="display: inline_block"><br>
   <img align="center" alt="AWS_ICON" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
   <img align="center" alt="NODEJS_ICON" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
